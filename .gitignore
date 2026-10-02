@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build and tool caches
+.output/
+.tanstack/
+.wrangler/
+dist/
+build/
+coverage/
+
+# Local files
+.DS_Store
+*.log
+
+# Environment files
+.env
+.env.*
+!.env.example
